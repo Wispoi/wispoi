@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wispoi&label=Profile%20views&color=0e75b6&style=flat" alt="wispoi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wispoi" alt="wispoi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="blank><img src="https://github-profile-trophy.vercel.app/?username=wispoi" alt="wispoi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/wispoi" target="blank"><img src="https://img.shields.io/twitter/follow/wispoi?logo=twitter&style=for-the-badge" alt="wispoi" /></a> </p>
 
@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [wispoi.com](wispoi.com)
 
-- 📝 I regularly write articles on [x.com/wispoi](x.com/wispoi)
+- 📝 I regularly write articles on [X](x.com/wispoi)
 
 - 📫 How to reach me **alexastap95@gmail.com**
 
-- 📄 Know about my experiences [Resume](Resume)
+- 📄 Know about my experiences [Here](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
