@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wispoi&label=Profile%20views&color=0e75b6&style=flat" alt="wispoi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="blank><img src="https://github-profile-trophy.vercel.app/?username=wispoi" alt="wispoi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=wispoi" alt="wispoi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/wispoi" target="blank"><img src="https://img.shields.io/twitter/follow/wispoi?logo=twitter&style=for-the-badge" alt="wispoi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/wispoi" target="_blank"><img src="https://img.shields.io/twitter/follow/wispoi?logo=twitter&style=for-the-badge" alt="wispoi" /></a> </p>
 
-- 🔭 I’m currently working on [YouGov Signal](https://app.signal.yougov.com/)
+- 🔭 I’m currently working on <a href="https://app.signal.yougov.com" target="_blank">YouGov Signal</a>
 
 - 🌱 I’m currently learning **GSAP and Three.js**
 
-- 👨‍💻 All of my projects are available at [wispoi.com](wispoi.com)
+- 👨‍💻 All of my projects are available at <a href="https://wispoi.com" target="_blank">my site</a>
 
-- 📝 I regularly write articles on [X](x.com/wispoi)
+- 📝 I regularly write articles on <a href="https://x.com/wispoi" target="_blank">X</a>
 
 - 📫 How to reach me **alexastap95@gmail.com**
 
