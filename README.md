@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/wispoi" target="_blank"><img src="https://img.shields.io/twitter/follow/wispoi?logo=twitter&style=for-the-badge" alt="wispoi" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://app.signal.yougov.com" target="_blank">YouGov Signal</a>
+- 🔭 I’m currently working on <a href="[https://app.signal.yougov.com](https://signal.yougov.com/)" target="_blank">YouGov Signal</a>
 
 - 🌱 I’m currently learning **GSAP and Three.js**
 
