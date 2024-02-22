@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/wispoi" target="_blank"><img src="https://img.shields.io/twitter/follow/wispoi?logo=twitter&style=for-the-badge" alt="wispoi" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://app.signal.yougov.com" target="_blank">YouGov Signal</a>
+- 🔭 I’m currently working on <a href="https://signal.yougov.com" target="_blank">YouGov Signal</a>
 
 - 🌱 I’m currently learning **GSAP and Three.js**
 
@@ -34,9 +34,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/wispoi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wispoi" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wispoi&show_icons=true&locale=en&layout=compact" alt="wispoi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wispoi&show_icons=true&locale=en" alt="wispoi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wispoi&" alt="wispoi" /></p>
