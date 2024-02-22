@@ -1,7 +1,6 @@
-<p align="center">
-  <a href="https://github.com/wispoi">
-    Alex Astapenko</a>
-</p>
+<h2 align="center">
+  Alex Astapenko
+</h2>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
