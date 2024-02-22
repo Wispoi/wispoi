@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alex Astapenko</h1>
-<h3 align="center">I have 6 years of experience writing web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. My deep full-stack experience includes Node.js and Express, MongoDB as well as more traditional technologies like PHP, ASP.NET, and MySQL.</h3>
+<h1>Hi 👋, I'm Alex Astapenko</h1>
+<h3>I have 6 years of experience writing web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. My deep full-stack experience includes Node.js and Express, MongoDB as well as more traditional technologies like PHP, ASP.NET, and MySQL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wispoi&label=Profile%20views&color=0e75b6&style=flat" alt="wispoi" /> </p>
 
